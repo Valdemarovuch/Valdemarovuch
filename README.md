@@ -1,15 +1,15 @@
 # Hi, I'm Bohdan (Valde) 👋
-## 💻 Software Engineer | Computer Vision & Python Developer
+## Software Engineer | Computer Vision & Python Developer
 
 I'm a software developer. I specialize in building software with Python, designing application architectures, and working with neural networks (specifically, the YOLO architecture).
 
-### ⚡ Technical Focus and Interests
+### Technical Focus and Interests
 
 * **Main Specialization:** Software engineering, computer vision (Object Detection), and web and desktop application development.
 * **Current projects:** Research and implementation of AI systems (PFM-1 mine detection using YOLO), web application development, and creation of custom Python utilities.
 * **Additional research interests:** OSINT methodologies, cybersecurity tools, and the integration of security solutions into the development process.
 
-### 🛠 Мій стек та інструменти
+### My stack and tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
