@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%" alt="Bohdan Banner">
+
 # Hi, I'm Bohdan (Valde | Valdemar | Valdemarovuch) 👋
 ## Software Engineer | Graphic Designer | Computer Vision & Python Developer
 
