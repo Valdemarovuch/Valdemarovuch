@@ -26,10 +26,9 @@
 
 ### 📊 Моя активність на GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valdemarovuch&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdemarovuch&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valdemarovuch&show_icons=true&theme=radium&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdemarovuch&layout=compact&theme=radium&hide_border=true)
 
 ### 📫 Як зі мною зв'язатися
 
