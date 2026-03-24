@@ -1,5 +1,5 @@
 # Hi, I'm Bohdan (Valde) 👋
-## Software Engineer | Computer Vision & Python Developer
+## Software Engineer | Graphick Designer | Computer Vision & Python Developer
 
 I'm a software developer. I specialize in building software with Python, designing application architectures, and working with neural networks (specifically, the YOLO architecture).
 
